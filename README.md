@@ -1,17 +1,17 @@
-# dev-notes
+# Dev Notes
 
-Personal notes on Ruby development, API design, and tooling.
+A personal collection of notes, snippets, and references for Ruby development and API design.
 
-## Sections
+## Structure
 
-- `ruby/` — patterns, gotchas, and snippets
-- `api/` — REST and GraphQL notes
-- `tools/` — CLI and editor configs
+- `ruby/` – Ruby idioms, gotchas, and pattern notes
+- `api/` – REST, GraphQL, and HTTP design notes
+- `tools/` – CLI commands and workflow tips
 
 ## Usage
 
-These are raw notes, not a guide. Searchable with `grep` or your editor.
+Browse the folders for relevant notes. Add new notes as Markdown files under the appropriate heading.
 
 ## License
 
-Private.
+Private – for personal reference only.
